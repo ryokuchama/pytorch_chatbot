@@ -1,6 +1,6 @@
 # pytorch_chatbot
 このチャットボットは、[PyTorch公式チュートリアル](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)のコードをアレンジしたものです
-またsentencepieceの分割モデルは公開されているwikipediaで作られた分割モデルを使用しました
+またsentencepieceの分割モデルは公開されているwikipediaで作られた分割モデルを使用しました  
 使用したモデルやファイル等は[Google Drive](https://drive.google.com/open?id=1CdtsymN0gGCXCfuWigeRejypu444_3Wi)にあります。
 
 ## 使用技術
