@@ -1,5 +1,6 @@
 # pytorch_chatbot
 このチャットボットは、[PyTorch公式チュートリアル](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)のコードをアレンジしたものです
+またsentencepieceの分割モデルは公開されているwikipediaで作られた分割モデルを使用しました
 
 ## 使用技術
 言語: Python  
@@ -21,8 +22,8 @@ kerasはあまりに簡単すぎて、自分が今後機械学習の理論に関
 かといって、TensorFlowを触れるだけの数学力もないと感じたため。  
 また、PyTorchでチャットボットを作成している人があまりいなかったため。
 
-##苦労した点
-#PyTorch
+## 苦労した点
+# PyTorch
 そもそもプログラミング自体素人の状態で始めたので、PyTorchを理解するだけでもかなり時間がかかった  
 現在でもざっくりとした動きは理解できてはいるものの、細かい部分はまだまだなので、QiitaやUdemy等で理解できるようにしていきたい
 
